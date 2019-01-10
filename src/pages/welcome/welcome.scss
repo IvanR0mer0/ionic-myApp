@@ -1,0 +1,24 @@
+page-welcome {
+
+#welcome{
+
+    background: color($colors, secondary);
+    //background-image: url('../assets/imgs/space.jpg');
+    //Filter: blur(5px);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    h1{
+        font-size: 32px;
+        margin-top: 50px;
+        color: color($colors, light);
+    }
+    .mybutton{
+        margin-top: 250px;
+        text-decoration-color: color($colors, secondary);
+        background-color: color($colors, primary);
+    }
+}
+}
+
+
